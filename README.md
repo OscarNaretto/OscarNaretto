@@ -1,5 +1,5 @@
 ### Hey there! 👋
-I'm a Computer Science student at Univeristy of Turin.
+I'm a full stack software developer based in Turin.
 I love coding and I'm always looking to learn new languages and technologies!
 
 
